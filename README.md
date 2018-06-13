@@ -1,7 +1,7 @@
 Are you really signed?
 ========================
 
-We are providing this tool to allow for easy testing of the recently discovered code-sign bypass vulnerability discovered by Okta.
+[We](https://sentinelone.com) are providing this tool to allow for easy testing of the recently discovered code-sign bypass vulnerability discovered by Okta.
 More information about the vulnerability itself can be found in the disclosure ["I can be Apple, and so can you"](https://www.okta.com/security-blog/2018/06/issues-around-third-party-apple-code-signing-checks/)
 
 You can download the tool from this repository or compile it yourself, we are distributing it under the [MIT License](LICENSE.TXT).
